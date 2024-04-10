@@ -1,4 +1,4 @@
-![Profile Banner](https://via.placeholder.com/1000x300) <!-- Replace this with your own banner image -->
+<img src="introGif.gif" alt="app-screen" width="1000" height=400/><!-- Replace this with your own banner image -->
 
 <h1 align="center">Hi there! I'm Vaibhav Tyagi 👋</h1>
 
