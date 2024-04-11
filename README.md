@@ -1,9 +1,3 @@
-<style>
-  body {
-    font-family: Verdana, sans-serif; /* Set the desired font family */
-  }
-</style>
-<body>
 <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
@@ -213,4 +207,3 @@ ensure a consistently high-quality database. </li>
 </div>
 
 <h5 align="center">&#x2705; Last updated April 2024</h5>
-</body>
