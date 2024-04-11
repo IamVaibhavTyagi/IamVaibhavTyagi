@@ -117,7 +117,7 @@ security clearance feature architecture and proposing enhancements for improved 
 
 
 <h3><img
-  src="images/yardi_Logo.jpeg" height=40 width=40/> Software Engineer | Yardi Systems Inc, India</h3>
+  src="images/yardi_logo.png" height=40 width=40/> Software Engineer | Yardi Systems Inc, India</h3>
 <h4>&#x1F5D3; Aug 2019 - Apr 2021</h4>
 
 <ul>
