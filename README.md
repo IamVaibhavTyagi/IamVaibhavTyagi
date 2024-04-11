@@ -132,7 +132,7 @@ ensure a consistently high-quality database. </li>
 - MS in Computer Science from &#127979; The University of Texas at Dallas, Dallas, Texas, &#x1F5D3; May 2023
 - BE in Computer Engineering from &#127979; Savitribai Phule Pune University, Pune, India, &#x1F5D3; May 2019
 
-<h2 align="center">💻 Projects</h2>
+<h2 align="center">🤖 Projects</h2>
 
 ### Library Management System
 &#x1F4BB; TechStack: Python 3, MySQL, Django, Bootstrap, HTML, CSS
