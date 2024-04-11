@@ -1,10 +1,16 @@
+<style>
+    body {
+      font-family: Verdana, sans-serif; /* Set the desired font family */
+    }
+</style>
+<body>
 <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
 <link rel="icon" href="/images/apple-touch-icon.png" type="image/png" />
 <img src="introGif.gif" alt="app-screen" width="1000" height=400/><!-- Replace this with your own banner image -->
 
-<h1 align="center">Hi there! I'm Vaibhav Tyagi 👋</h1>
+<h1 align="center">Hi there! I'm Vaibhav Tyagi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "25px"></h1>
 
 <p align="justify">I'm a software engineer based in Redmond, Washington, with a master's degree held in Computer Science specializing in intelligent systems from University of Texas at Dallas. I've an experience of 2+ years as a software engineer. Besides technology, I have a passion for photography, hiking, and football. I love meeting new people, having great conversations. Let's connect on social media, and feel free to ask me anything — I'm here to share and learn together!</p>
 <a href="VaibhavTyagi-resume.pdf" target="_blank" class="social-links btn-1">
@@ -207,3 +213,4 @@ ensure a consistently high-quality database. </li>
 </div>
 
 <h5 align="center">&#x2705; Last updated April 2024</h5>
+</body>
