@@ -210,7 +210,7 @@ ensure a consistently high-quality database. </li>
 
 <h5 align="center">&#x2705; Last updated April 2024</h5>
 <div style="text-align: center;">
-  <a align="center" href="#section1">
-  <button style="background-color: white; color: black;">&#x2B06;Back to top</button>
+  <a href="#section1">
+  <button style="background-color: Yellow; color: black;">&#x2B06; Back to top</button>
   </a>
 </div>
