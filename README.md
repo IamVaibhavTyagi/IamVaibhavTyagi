@@ -124,79 +124,76 @@ ensure a consistently high-quality database. </li>
 <h2 align="center">💻 Projects</h2>
 
 ### Library Management System
-  &#x1F4BB; TechStack: Python 3, MySQL, Django, Bootstrap, HTML, CSS
-  <p align="justify">
-    I developed a comprehensive system for librarians that includes
-    book search, check-in/check-out functionality, borrower
-    management, authentication, and fine management features,
-    allowing librarians to efficiently manage the library operations
-    and track fines.
-  </p>
-  <a
-    href="https://github.com/IamVaibhavTyagi/Library-Management-System"
-    target="_blank"
-    class="social-links"
-    ><button class="button fa fa-github">&nbsp;Github</button>
-    </a>
+&#x1F4BB; TechStack: Python 3, MySQL, Django, Bootstrap, HTML, CSS
+<p align="justify">
+  I developed a comprehensive system for librarians that includes
+  book search, check-in/check-out functionality, borrower
+  management, authentication, and fine management features,
+  allowing librarians to efficiently manage the library operations
+  and track fines.
+</p>
+<a
+  href="https://github.com/IamVaibhavTyagi/Library-Management-System"
+  target="_blank"
+  class="social-links"><button class="button fa fa-github">&nbsp;Github</button>
+</a>
   
 
 ### Instant Messaging Application
-  &#x1F4BB; TechStack: Java 
-  <p align="justify">
-    I developed a secure messaging system using Java with AES and
-    RSA encryption algorithms. It includes public key cryptography
-    for authentication, nonce encryption for authenticity
-    verification, and AES 128-bit encryption for message
-    confidentiality.
-  </p>
-  <a
-    href="https://github.com/IamVaibhavTyagi/Instant-Messaging-Application"
-    target="_blank"
-    class="social-links"
-    ><button class="button fa fa-github">&nbsp;Github</button>
-    </a>
+&#x1F4BB; TechStack: Java 
+<p align="justify">
+  I developed a secure messaging system using Java with AES and
+  RSA encryption algorithms. It includes public key cryptography
+  for authentication, nonce encryption for authenticity
+  verification, and AES 128-bit encryption for message
+  confidentiality.
+</p>
+<a
+  href="https://github.com/IamVaibhavTyagi/Instant-Messaging-Application"
+  target="_blank"
+  class="social-links"><button class="button fa fa-github">&nbsp;Github</button>
+</a>
 
 ### Real-time Stock Price & Analysis Bot
-  &#x1F4BB; TechStack: Python 3, NSEpy, NumPy, Matplotlib 
-  <p align="justify">
-    Developed a bot to give live price of a National Stock Exchange
-    (NSE) stock upon messaging the stock symbol. Created a technical
-    analysis module giving market performance of a stock using data
-    of last 6 months.
-  </p>
-  <a
-    href="https://github.com/IamVaibhavTyagi/stock-price-analysis-bot"
-    target="_blank"
-    class="social-links"
-    ><button class="button fa fa-github">&nbsp;Github</button>
-    </a>
+&#x1F4BB; TechStack: Python 3, NSEpy, NumPy, Matplotlib 
+<p align="justify">
+  Developed a bot to give live price of a National Stock Exchange
+  (NSE) stock upon messaging the stock symbol. Created a technical
+  analysis module giving market performance of a stock using data
+  of last 6 months.
+</p>
+<a
+  href="https://github.com/IamVaibhavTyagi/stock-price-analysis-bot"
+  target="_blank"
+  class="social-links"><button class="button fa fa-github">&nbsp;Github</button>
+</a>
 
 ### ATM Surveillance System
-  &#x1F4BB; TechStack: Java, OpenCV, SQL 
-  <p align="justify">
-    I collaborated with a team to develop a CCTV-based monitoring
-    system for restricted areas. The system included an anti-theft
-    module with alarm triggers and notifications to security
-    personnel. Additionally, I implemented a face verification
-    feature to ensure secure transactions.
-  </p>
-  <a
-    href="https://github.com/IamVaibhavTyagi/ATM-Surveillance"
-    target="_blank"
-    class="social-links"
-    ><button class="button fa fa-github">&nbsp;Github</button></a>
+&#x1F4BB; TechStack: Java, OpenCV, SQL 
+<p align="justify">
+  I collaborated with a team to develop a CCTV-based monitoring
+  system for restricted areas. The system included an anti-theft
+  module with alarm triggers and notifications to security
+  personnel. Additionally, I implemented a face verification
+  feature to ensure secure transactions.
+</p>
+<a
+  href="https://github.com/IamVaibhavTyagi/ATM-Surveillance"
+  target="_blank"
+  class="social-links"><button class="button fa fa-github">&nbsp;Github</button>
+</a>
 
 ### Crime Reporting System
-  &#x1F4BB; TechStack: Python 3, MySQL, Pandas, Matplotlib 
-  <p align="justify">
-    Led a team of 3 to design an application to keep crime reports
-    safe, secure and yield significant insights from the data.
-  </p>
-  <a
-    href="https://github.com/IamVaibhavTyagi/Crime-Reporting-System"
-    target="_blank"
-    class="social-links"
-    ><button class="button fa fa-github">&nbsp;Github</button></a>
+&#x1F4BB; TechStack: Python 3, MySQL, Pandas, Matplotlib 
+<p align="justify">
+  Led a team of 3 to design an application to keep crime reports
+  safe, secure and yield significant insights from the data.
+</p>
+<a
+  href="https://github.com/IamVaibhavTyagi/Crime-Reporting-System"
+  target="_blank"
+  class="social-links"><button class="button fa fa-github">&nbsp;Github</button>
+</a>
 
 
 <h2 align="center">📫 Contact Information</h2>
