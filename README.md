@@ -1,7 +1,7 @@
 <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
-    <link rel="icon" href="/images/apple-touch-icon.png" type="image/png" />
+<link rel="icon" href="/images/apple-touch-icon.png" type="image/png" />
 <img src="introGif.gif" alt="app-screen" width="1000" height=400/><!-- Replace this with your own banner image -->
 
 <h1 align="center">Hi there! I'm Vaibhav Tyagi 👋</h1>
@@ -124,7 +124,7 @@ ensure a consistently high-quality database. </li>
 <h2 align="center">💻 Projects</h2>
 
 ### Library Management System
-  ##### &#x1F4BB; TechStack: Python 3, MySQL, Django, Bootstrap, HTML, CSS
+  &#x1F4BB; TechStack: Python 3, MySQL, Django, Bootstrap, HTML, CSS
   <p align="justify">
     I developed a comprehensive system for librarians that includes
     book search, check-in/check-out functionality, borrower
@@ -141,7 +141,7 @@ ensure a consistently high-quality database. </li>
   
 
 ### Instant Messaging Application
-  #### &#x1F4BB; TechStack: Java 
+  &#x1F4BB; TechStack: Java 
   <p align="justify">
     I developed a secure messaging system using Java with AES and
     RSA encryption algorithms. It includes public key cryptography
@@ -157,7 +157,7 @@ ensure a consistently high-quality database. </li>
     </a>
 
 ### Real-time Stock Price & Analysis Bot
-  #### &#x1F4BB; TechStack: Python 3, NSEpy, NumPy, Matplotlib 
+  &#x1F4BB; TechStack: Python 3, NSEpy, NumPy, Matplotlib 
   <p align="justify">
     Developed a bot to give live price of a National Stock Exchange
     (NSE) stock upon messaging the stock symbol. Created a technical
@@ -172,7 +172,7 @@ ensure a consistently high-quality database. </li>
     </a>
 
 ### ATM Surveillance System
-  #### &#x1F4BB; TechStack: Java, OpenCV, SQL 
+  &#x1F4BB; TechStack: Java, OpenCV, SQL 
   <p align="justify">
     I collaborated with a team to develop a CCTV-based monitoring
     system for restricted areas. The system included an anti-theft
@@ -187,7 +187,7 @@ ensure a consistently high-quality database. </li>
     ><button class="button fa fa-github">&nbsp;Github</button></a>
 
   ### Crime Reporting System
-  #### &#x1F4BB; TechStack: Python 3, MySQL, Pandas, Matplotlib 
+  &#x1F4BB; TechStack: Python 3, MySQL, Pandas, Matplotlib 
   <p align="justify">
     Led a team of 3 to design an application to keep crime reports
     safe, secure and yield significant insights from the data.
@@ -196,8 +196,7 @@ ensure a consistently high-quality database. </li>
     href="https://github.com/IamVaibhavTyagi/Crime-Reporting-System"
     target="_blank"
     class="social-links"
-    ><button class="button fa fa-github">&nbsp;Github</button></a
-  >
+    ><button class="button fa fa-github">&nbsp;Github</button></a>
 
 
 <h2 align="center">📫 Contact Information</h2>
@@ -207,5 +206,4 @@ ensure a consistently high-quality database. </li>
 <br><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="20" height="20" alt="gmail logo"  /> <a href="mailto:vaibhavtyagi0808@gmail.com" class="email-link">vaibhavtyagi0808@gmail.com</a> <br>or connect with me on <br><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20" height="20" alt="linkedin logo"  /><a href="https://www.linkedin.com/in/iamvaibhavtyagi" class="linkedin-link" target="_blank"> LinkedIn</a>.</p>
 </div>
 
-#
 <h5 align="center">&#x2705; Last updated April 2024</h5>
