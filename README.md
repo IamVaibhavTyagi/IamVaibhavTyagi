@@ -189,11 +189,10 @@ ensure a consistently high-quality database. </li>
   Led a team of 3 to design an application to keep crime reports
   safe, secure and yield significant insights from the data.
 </p>
-<a
-  href="https://github.com/IamVaibhavTyagi/Crime-Reporting-System"
-  target="_blank"
-  class="social-links"><button class="button fa fa-github">&nbsp;Github</button>
+<a href="https://github.com/IamVaibhavTyagi/Crime-Reporting-System" target="_blank" class="social-links">
+  <button class="button fa fa-github">&nbsp;Github</button>
 </a>
+
 
 
 <h2 align="center">📫 Contact Information</h2>
