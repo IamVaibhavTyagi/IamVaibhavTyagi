@@ -75,8 +75,9 @@
 
 <h2 align="center"> 💼 Work Experience </h2>
 
-### 🧑🏽‍💻 Software Engineer | SeekOut, Bellevue
-&#x1F5D3; July 2023 – Present
+<h3><img
+  src="images/SeekOut_Logo.jpg" height=40 width=60/> Software Engineer | SeekOut, Bellevue </h3>
+<h4>&#x1F5D3; July 2023 – Present</h4>
 <ul>
   <li style="text-align: justify;">Designed and developed a driver application using C# for transitioning from single client to multiple, improving code generality and reusability, 
 while setting up infrastructure in Cosmos DB, Azure Batch, Blob Storage, and Service Bus Topics.</li>
@@ -88,8 +89,9 @@ changes, thus boosting efficiency.</li>
   <li style="text-align: justify;">Built alerts using logic apps and dashboards in Azure to quickly find issues, reduce time spent debugging bugs, and keep track of code performance</li>
 </ul>
     
-### 🧑🏽‍💻 Data Analyst Intern | Ware2Go (A UPS Company), Atlanta
-&#x1F5D3; Jan 2023 – May 2023
+<h3><img
+  src="images/Ware2Go_Logo.jpg" height=40 width=60/> Data Analyst Intern | Ware2Go (A UPS Company), Atlanta </h3>
+<h4>&#x1F5D3; Jan 2023 – May 2023 </h4>
 
 <ul>
   <li style="text-align: justify;">Implemented an automated data import process using UiPath and C# to seamlessly transfer data from Softeon to Big Query, enhancing accuracy to 
@@ -100,8 +102,9 @@ based on factors like location, weight, and packaging to facilitate improved dec
   <li style="text-align: justify;">Analyzed business reports in Domo, extracting insights from Big Query data, and summarized functionalities into Excel for team reference. </li>
 </ul>
 
-### 🧑🏽‍💻 Software Engineer Intern | SeekOut, Bellevue
-&#x1F5D3; May 2022 – Aug 2022
+<h3><img
+  src="images/SeekOut_Logo.jpg" height=40 width=60/>  Software Engineer Intern | SeekOut, Bellevue </h3>
+<h4>&#x1F5D3; May 2022 – Aug 2022</h4>
 
 <ul>
   <li style="text-align: justify;">Led the execution of SeekOut's Website security clearance feature data pipeline, refreshing the security-clearance-tag map with 1.5 years' worth of 
@@ -112,8 +115,10 @@ reporting users on missing keys and invalid data fields.</li>
 security clearance feature architecture and proposing enhancements for improved speed and accuracy.</li>
 </ul>
 
-### 🧑🏽‍💻 Software Engineer | Yardi Systems Inc, India
-&#x1F5D3; Aug 2019 - Apr 2021
+
+<h3><img
+  src="images/Yardi_Logo.png" height=40 width=60/> Software Engineer | Yardi Systems Inc, India</h3>
+<h4>&#x1F5D3; Aug 2019 - Apr 2021</h4>
 
 <ul>
   <li style="text-align: justify;">Managed Yardi's real estate management database comprising almost 20,000 customers, utilizing advanced SQL scripting to rectify anomalies and 
@@ -141,7 +146,7 @@ ensure a consistently high-quality database. </li>
 <a
   href="https://github.com/IamVaibhavTyagi/Library-Management-System"
   target="_blank"
-  class="social-links"><button class="button fa fa-github">&nbsp;Github</button>
+  class="social-links"><button style="background-color: Yellow; color: black;" class="button fa fa-github">&nbsp;Github</button>
 </a>
   
 
@@ -157,7 +162,7 @@ ensure a consistently high-quality database. </li>
 <a
   href="https://github.com/IamVaibhavTyagi/Instant-Messaging-Application"
   target="_blank"
-  class="social-links"><button class="button fa fa-github">&nbsp;Github</button>
+  class="social-links"><button style="background-color: Yellow; color: black;" class="button fa fa-github">&nbsp;Github</button>
 </a>
 
 ### Real-time Stock Price & Analysis Bot
@@ -171,7 +176,7 @@ ensure a consistently high-quality database. </li>
 <a
   href="https://github.com/IamVaibhavTyagi/stock-price-analysis-bot"
   target="_blank"
-  class="social-links"><button class="button fa fa-github">&nbsp;Github</button>
+  class="social-links"><button style="background-color: Yellow; color: black;" class="button fa fa-github">&nbsp;Github</button>
 </a>
 
 ### ATM Surveillance System
@@ -186,7 +191,7 @@ ensure a consistently high-quality database. </li>
 <a
   href="https://github.com/IamVaibhavTyagi/ATM-Surveillance"
   target="_blank"
-  class="social-links"><button class="button fa fa-github">&nbsp;Github</button>
+  class="social-links"><button style="background-color: Yellow; color: black;" class="button fa fa-github">&nbsp;Github</button>
 </a>
 
 ### Crime Reporting System
@@ -196,7 +201,7 @@ ensure a consistently high-quality database. </li>
   safe, secure and yield significant insights from the data.
 </p>
 <a href="https://github.com/IamVaibhavTyagi/Crime-Reporting-System" target="_blank" class="social-links">
-  <button class="button fa fa-github">&nbsp;Github</button>
+  <button style="background-color: Yellow; color: black;" class="button fa fa-github">&nbsp;Github</button>
 </a>
 
 
@@ -209,8 +214,8 @@ ensure a consistently high-quality database. </li>
 </div>
 
 <h5 align="center">&#x2705; Last updated April 2024</h5>
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
   <a href="#section1">
   <button style="background-color: Yellow; color: black;">&#x2B06; Back to top</button>
   </a>
-</div>
+</div> -->
