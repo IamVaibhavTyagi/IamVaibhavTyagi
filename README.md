@@ -186,7 +186,7 @@ ensure a consistently high-quality database. </li>
     class="social-links"
     ><button class="button fa fa-github">&nbsp;Github</button></a>
 
-  ### Crime Reporting System
+### Crime Reporting System
   &#x1F4BB; TechStack: Python 3, MySQL, Pandas, Matplotlib 
   <p align="justify">
     Led a team of 3 to design an application to keep crime reports
