@@ -4,19 +4,24 @@
 <link rel="icon" href="/images/apple-touch-icon.png" type="image/png" />
 <img src="introGif.gif" alt="app-screen" width="1000" height=400/><!-- Replace this with your own banner image -->
 
-<h1 align="center">Hi there! I'm Vaibhav Tyagi 👋</h1>
+<div id="#section1" style="text-align: center;">
+  <h1>Hi there! I'm Vaibhav Tyagi 👋</h1>
+</div>
 
 <p align="justify">I'm a software engineer based in Redmond, Washington, with a master's degree held in Computer Science specializing in intelligent systems from University of Texas at Dallas. I've an experience of 2+ years as a software engineer. Besides technology, I have a passion for photography, hiking, and football. I love meeting new people, having great conversations. Let's connect on social media, and feel free to ask me anything — I'm here to share and learn together!</p>
-<a href="VaibhavTyagi-resume.pdf" target="_blank" class="social-links btn-1">
-  <button class="button" role="button">
-    <span class="text">
-      <span style="cursor: pointer; color: black;" onmouseover="this.style.color='blue';" onmouseout="this.style.color='black';">&#x1F4DD;</span>
-      Resume
-    </span>
-  </button>
-</a>
+
+<div style="text-align: left;">
+  <a href="VaibhavTyagi-resume.pdf" target="_blank">
+    <button class="button" role="button" style="background-color: #98FB98; color: black;">
+      <span class="text">
+        Resume
+      </span>
+    </button>
+  </a>
+</div>
 
 <h2 align="center">🔧 Skills</h2>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
 <img width="12" />
@@ -44,6 +49,7 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
+
 <ul>
   <li>
     <h4>Programming Languages</h4>
@@ -203,3 +209,8 @@ ensure a consistently high-quality database. </li>
 </div>
 
 <h5 align="center">&#x2705; Last updated April 2024</h5>
+<div style="text-align: center;">
+  <a align="center" href="#section1">
+  <button style="background-color: white; color: black;">&#x2B06;Back to top</button>
+  </a>
+</div>
