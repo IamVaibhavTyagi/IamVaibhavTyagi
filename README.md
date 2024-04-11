@@ -76,7 +76,7 @@
 <h2 align="center"> 💼 Work Experience </h2>
 
 <h3><img
-  src="images/SeekOut_Logo.jpg" height=40 width=60/> Software Engineer | SeekOut, Bellevue </h3>
+  src="images/seekout_logo.png" height=40 width=40/> Software Engineer | SeekOut, Bellevue </h3>
 <h4>&#x1F5D3; July 2023 – Present</h4>
 <ul>
   <li style="text-align: justify;">Designed and developed a driver application using C# for transitioning from single client to multiple, improving code generality and reusability, 
@@ -90,7 +90,7 @@ changes, thus boosting efficiency.</li>
 </ul>
     
 <h3><img
-  src="images/Ware2Go_Logo.jpg" height=40 width=60/> Data Analyst Intern | Ware2Go (A UPS Company), Atlanta </h3>
+  src="images/ware2go_logo.png" height=40 width=40/> Data Analyst Intern | Ware2Go (A UPS Company), Atlanta </h3>
 <h4>&#x1F5D3; Jan 2023 – May 2023 </h4>
 
 <ul>
@@ -103,7 +103,7 @@ based on factors like location, weight, and packaging to facilitate improved dec
 </ul>
 
 <h3><img
-  src="images/SeekOut_Logo.jpg" height=40 width=60/>  Software Engineer Intern | SeekOut, Bellevue </h3>
+  src="images/seekout_logo.png" height=40 width=40/>  Software Engineer Intern | SeekOut, Bellevue </h3>
 <h4>&#x1F5D3; May 2022 – Aug 2022</h4>
 
 <ul>
@@ -117,7 +117,7 @@ security clearance feature architecture and proposing enhancements for improved 
 
 
 <h3><img
-  src="images/Yardi_Logo.png" height=40 width=60/> Software Engineer | Yardi Systems Inc, India</h3>
+  src="images/yardi_Logo.jpeg" height=40 width=40/> Software Engineer | Yardi Systems Inc, India</h3>
 <h4>&#x1F5D3; Aug 2019 - Apr 2021</h4>
 
 <ul>
