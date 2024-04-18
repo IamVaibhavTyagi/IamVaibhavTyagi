@@ -1,7 +1,7 @@
 <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
-<link rel="icon" href="/images/apple-touch-icon.png" type="image/png" />
+<link rel="icon" href="blob.png" type="image/png" />
 <img src="introGif.gif" alt="app-screen" width="1000" height=400/><!-- Replace this with your own banner image -->
 
 <div id="#section1" style="text-align: center;">
