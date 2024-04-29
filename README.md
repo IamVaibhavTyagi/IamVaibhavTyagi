@@ -8,10 +8,10 @@
   <h1>Hi there! I'm Vaibhav Tyagi 👋</h1>
 </div>
 
-<p align="justify">I'm a software engineer based in Redmond, Washington, with a master's degree held in Computer Science specializing in intelligent systems from University of Texas at Dallas. I've an experience of 2+ years as a software engineer. Besides technology, I have a passion for photography, hiking, and football. I love meeting new people, having great conversations. Let's connect on social media, and feel free to ask me anything — I'm here to share and learn together!</p>
+<p align="justify">I'm Vaibhav Tyagi, a software engineer based in Redmond, Washington, with a master's degree in Computer Science from the University of Texas at Dallas. With over 3 years of experience in software engineering, I've developed a passion for designing and developing efficient algorithms, automating processes, and improving code performance. When I'm not coding, you can find me capturing moments through photography, hiking, or cheering on my favorite football team. I'm always excited to meet new people, share experiences, and learn from others. Let's connect and explore opportunities to drive innovation and growth together!</p>
 
 <div style="text-align: left;">
-  <a href="VaibhavTyagi-resume.pdf" target="_blank">
+  <a href="VaibhavTyagi_resume.pdf" target="_blank">
     <button class="button" role="button" style="background-color: #98FB98; color: black;">
       <span class="text">
         Resume
@@ -79,14 +79,18 @@
   src="images/seekout_logo.png" height=40 width=40/> Software Engineer | SeekOut, Bellevue </h3>
 <h4>&#x1F5D3; July 2023 – Present</h4>
 <ul>
-  <li style="text-align: justify;">Designed and developed a driver application using C# for transitioning from single client to multiple, improving code generality and reusability, 
+  <li style="text-align: justify;">Designed and developed a driver application using C# for transitioning from single client to 20+ clients, improving code generality and reusability,
 while setting up infrastructure in Cosmos DB, Azure Batch, Blob Storage, and Service Bus Topics.</li>
-  <li style="text-align: justify;">Created an algorithm using C# and Azure SDK to process DeadLetterQueue (DLQ) messages, ensuring their sequence is preserved without 
-disrupting the message order in topic.</li>
-  <li style="text-align: justify;">Automated the build and deployment process using Python, DevOps, and Github SDK, saving significant time by uploading only modules with code 
-changes, thus boosting efficiency.</li>
-  <li style="text-align: justify;">Developed CI/CD pipelines using DevOps and shell script to deploy code from development and release branches, ensuring quick deployment.</li>
-  <li style="text-align: justify;">Built alerts using logic apps and dashboards in Azure to quickly find issues, reduce time spent debugging bugs, and keep track of code performance</li>
+  <li style="text-align: justify;">Developed a deduplication service in C# for attachment extractors, resulting in a significant reduction of 82% in download API calls and blob read/
+write requests, leading to cost savings and improved code efficiency.</li>
+  <li style="text-align: justify;">Designed and implemented an algorithm to detect, process, and preserve sequence of DeadLetterQueue (DLQ) messages using C# and Azure SDK,
+achieving 95% reduction in manual efforts and significant time savings.</li>
+  <li style="text-align: justify;">Automated build and deployment process using Python, DevOps, and Github SDK, uploading only modified code modules, boosting efficiency by
+80% and significantly reducing deployment times.</li>
+  <li style="text-align: justify;">Improved CI/CD pipelines using DevOps and shell script, enabling faster and more reliable code deployment from development and release
+branches, and reducing deployment times.</li>
+<li style="text-align: justify;">Developed Azure logic app alerts and dashboards to facilitate timely issue detection, simplify debugging, and track code performance, enhancing
+overall system maintainability.</li>
 </ul>
     
 <h3><img
@@ -210,7 +214,7 @@ ensure a consistently high-quality database. </li>
 <p align="center">&#128507;Redmond, Washington</p>
 <div align="center">
   <p>You can reach me via email at
-<br><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="20" height="20" alt="gmail logo"  /> <a href="mailto:vaibhavtyagi0808@gmail.com" class="email-link">vaibhavtyagi0808@gmail.com</a> <br>or connect with me on <br><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20" height="20" alt="linkedin logo"  /><a href="https://www.linkedin.com/in/iamvaibhavtyagi" class="linkedin-link" target="_blank"> LinkedIn</a>.</p>
+<br><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="20" height="20" alt="gmail logo"  /> <a href="mailto:tyagivaibhav0808@gmail.com" class="email-link">tyagivaibhav0808@gmail.com</a> <br>or connect with me on <br><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20" height="20" alt="linkedin logo"  /><a href="https://www.linkedin.com/in/iamvaibhavtyagi" class="linkedin-link" target="_blank"> LinkedIn</a>.</p>
 </div>
 
 <h5 align="center">&#x2705; Last updated April 2024</h5>
