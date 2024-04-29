@@ -11,7 +11,7 @@
 <p align="justify">I'm Vaibhav Tyagi, a software engineer based in Redmond, Washington, with a master's degree in Computer Science from the University of Texas at Dallas. With over 3 years of experience in software engineering, I've developed a passion for designing and developing efficient algorithms, automating processes, and improving code performance. When I'm not coding, you can find me capturing moments through photography, hiking, or cheering on my favorite football team. I'm always excited to meet new people, share experiences, and learn from others. Let's connect and explore opportunities to drive innovation and growth together!</p>
 
 <div style="text-align: left;">
-  <a href="VaibhavTyagi_resume.pdf" target="_blank">
+  <a href="VaibhavTyagi-resume.pdf" target="_blank">
     <button class="button" role="button" style="background-color: #98FB98; color: black;">
       <span class="text">
         Resume
