@@ -79,18 +79,15 @@
   src="images/seekout_logo.png" height=40 width=40/> Software Engineer | SeekOut, Bellevue </h3>
 <h4>&#x1F5D3; July 2023 – Present</h4>
 <ul>
-  <li style="text-align: justify;">Designed and developed a driver application using C# for transitioning from single client to 20+ clients, improving code generality and reusability,
-while setting up infrastructure in Cosmos DB, Azure Batch, Blob Storage, and Service Bus Topics.</li>
-  <li style="text-align: justify;">Developed a deduplication service in C# for attachment extractors, resulting in a significant reduction of 82% in download API calls and blob read/
-write requests, leading to cost savings and improved code efficiency.</li>
+  <li style="text-align: justify;">Architected a reusable driver application to decouple client operations, ensuring fault isolation and eliminating cross-client dependencies. Enhanced scalability, reduced onboarding time by 70%, and streamlined customer integration with infrastructure on Azure Cosmos DB, Batch, Blob Storage, and Service Bus Topics.</li>
+  <li style="text-align: justify;">Built a deduplication service for attachment extractors, resulting in a significant reduction of 80% in download API calls and blob read/write operations, leading to cost savings and improved code efficiency.</li>
+  <li style="text-align: justify;">Redesigned the strategy for building the Applicant Review feature, enabling seamless integration of candidate data from ATS platforms into our product. This enhancement allowed recruiters to manage workflows from a unified platform, simplifying and streamlining the hiring process.</li>
+  <li style="text-align: justify;">Optimized service bus operations by reducing redundant requests, resulting in a 90% reduction in throttling and ensuring uninterrupted service.</li>
   <li style="text-align: justify;">Designed and implemented an algorithm to detect, process, and preserve sequence of DeadLetterQueue (DLQ) messages using C# and Azure SDK,
 achieving 95% reduction in manual efforts and significant time savings.</li>
-  <li style="text-align: justify;">Automated build and deployment process using Python, DevOps, and Github SDK, uploading only modified code modules, boosting efficiency by
-80% and significantly reducing deployment times.</li>
-  <li style="text-align: justify;">Improved CI/CD pipelines using DevOps and shell script, enabling faster and more reliable code deployment from development and release
-branches, and reducing deployment times.</li>
-<li style="text-align: justify;">Developed Azure logic app alerts and dashboards to facilitate timely issue detection, simplify debugging, and track code performance, enhancing
-overall system maintainability.</li>
+<li style="text-align: justify;">Created CI/CD pipelines leveraging Python, DevOps, shell scripting, and GitHub SDK to streamline build and deployment workflows, uploading only modified modules and reducing deployment times by 80%.</li>
+<li style="text-align: justify;">Revamped telemetry logging by standardizing naming conventions, implementing telemetry initializers, and enhancing metrics, reducing debugging time by 50% and improving cost efficiency by eliminating redundant logs.</li>
+<li style="text-align: justify;">Collaborated with cross-functional teams to gather requirements and developed Azure Logic App alerts and dashboards to facilitate timely issue detection, simplify debugging, and track code performance, thereby enhancing overall system maintainability.</li>
 </ul>
     
 <h3><img
@@ -217,7 +214,7 @@ ensure a consistently high-quality database. </li>
 <br><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="20" height="20" alt="gmail logo"  /> <a href="mailto:tyagivaibhav0808@gmail.com" class="email-link">tyagivaibhav0808@gmail.com</a> <br>or connect with me on <br><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20" height="20" alt="linkedin logo"  /><a href="https://www.linkedin.com/in/iamvaibhavtyagi" class="linkedin-link" target="_blank"> LinkedIn</a>.</p>
 </div>
 
-<h5 align="center">&#x2705; Last updated April 2024</h5>
+<h5 align="center">&#x2705; Last updated Jan 2025</h5>
 <!-- <div style="text-align: center;">
   <a href="#section1">
   <button style="background-color: Yellow; color: black;">&#x2B06; Back to top</button>
