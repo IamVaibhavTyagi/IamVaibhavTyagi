@@ -76,7 +76,7 @@
 <h2 align="center"> 💼 Work Experience </h2>
 
 <h3><img
-  src="images/seekout_logo.png" height=40 width=40/> Software Engineer | SeekOut, Bellevue </h3>
+  src="images/seekout_logo.png" height=40 width=40/> Software Engineer II | SeekOut, Bellevue </h3>
 <h4>&#x1F5D3; July 2023 – Present</h4>
 <ul>
   <li style="text-align: justify;">Designed and launched a Databricks Genie Space over curated ATS datasets, enabling natural-language querying for both engineers debugging data issues and ~20 Customer Success Managers extracting customer insights, eliminating ad-hoc data pulls from the engineering team.</li>
