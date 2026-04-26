@@ -11,7 +11,7 @@
 <p align="justify">I'm Vaibhav Tyagi, a software engineer based in Redmond, Washington, with a master's degree in Computer Science from the University of Texas at Dallas. With over 3 years of experience in software engineering, I've developed a passion for designing and developing efficient algorithms, automating processes, and improving code performance. When I'm not coding, you can find me capturing moments through photography, hiking, or cheering on my favorite football team. I'm always excited to meet new people, share experiences, and learn from others. Let's connect and explore opportunities to drive innovation and growth together!</p>
 
 <div style="text-align: left;">
-  <a href="VaibhavTyagi_resume_2025.pdf" target="_blank">
+  <a href="VaibhavTyagi_resume_2026.pdf" target="_blank">
     <button class="button" role="button" style="background-color: #98FB98; color: black;">
       <span class="text">
         Resume
@@ -61,11 +61,11 @@
   </li>
   <li>
   <h4>Libraries and Tools:</h4>
-    Git, GitHub SDK, UiPath, Azure DevOps, Azure SDK, Azure Batch, Azure ServiceBus, Azure BlobStorage
+    Git, GitHub SDK, Spark, UiPath, Datadog, Databricks, Azure DevOps, Azure SDK, Azure Batch, Azure ServiceBus, Azure BlobStorage, Azure Data Lake, OpenAI SDK, MCP
   </li>
   <li>
   <h4>Databases</h4>
-    Azure CosmosDB, BigQuery, MySQL
+    Azure CosmosDB, BigQuery, MySQL, PostgreSQL
   </li>
   <li>
   <h4>Frameworks</h4>
@@ -79,15 +79,17 @@
   src="images/seekout_logo.png" height=40 width=40/> Software Engineer | SeekOut, Bellevue </h3>
 <h4>&#x1F5D3; July 2023 – Present</h4>
 <ul>
+  <li style="text-align: justify;">Designed and launched a Databricks Genie Space over curated ATS datasets, enabling natural-language querying for both engineers debugging data issues and ~20 Customer Success Managers extracting customer insights, eliminating ad-hoc data pulls from the engineering team.</li>
+  <li style="text-align: justify;">Developed an MCP-based auto-debug agent integrating Slack alerts, Azure App Insights, Jira, and GitHub to automatically diagnose production incidents and raise review-ready PRs with fixes, cutting incident resolution time from 30 mins–2 days to under 5 mins; built as an extensible framework adoptable by any engineering team.</li>
+  <li style="text-align: justify;">Architected and implemented an end-to-end ROI Report System — built Databricks pipelines ingesting ATS events and customer data into bronze/silver tables, layered tiered materialized views for transformation and enrichment, and surfaced insights through a live Tableau dashboard; replaced a 1+ week manual process with daily-refreshed, self-serve ROI summary, candidate funnel, and diversity metrics for Customer Success Managers with sub-second filter performance over 600K+ rows.</li>
+  <li style="text-align: justify;">Developed and integrated a ChatGPT-powered service using the OpenAI SDK to generate stage mappings automatically, enhancing accuracy and significantly reducing manual effort in aligning customer ATS stages with reporting.</li>
   <li style="text-align: justify;">Architected a reusable driver application to decouple client operations, ensuring fault isolation and eliminating cross-client dependencies. Enhanced scalability, reduced onboarding time by 70%, and streamlined customer integration with infrastructure on Azure Cosmos DB, Batch, Blob Storage, and Service Bus Topics.</li>
   <li style="text-align: justify;">Built a deduplication service for attachment extractors, resulting in a significant reduction of 80% in download API calls and blob read/write operations, leading to cost savings and improved code efficiency.</li>
-  <li style="text-align: justify;">Redesigned the strategy for building the Applicant Review feature, enabling seamless integration of candidate data from ATS platforms into our product. This enhancement allowed recruiters to manage workflows from a unified platform, simplifying and streamlining the hiring process.</li>
-  <li style="text-align: justify;">Optimized service bus operations by reducing redundant requests, resulting in a 90% reduction in throttling and ensuring uninterrupted service.</li>
-  <li style="text-align: justify;">Designed and implemented an algorithm to detect, process, and preserve sequence of DeadLetterQueue (DLQ) messages using C# and Azure SDK,
-achieving 95% reduction in manual efforts and significant time savings.</li>
-<li style="text-align: justify;">Created CI/CD pipelines leveraging Python, DevOps, shell scripting, and GitHub SDK to streamline build and deployment workflows, uploading only modified modules and reducing deployment times by 80%.</li>
-<li style="text-align: justify;">Revamped telemetry logging by standardizing naming conventions, implementing telemetry initializers, and enhancing metrics, reducing debugging time by 50% and improving cost efficiency by eliminating redundant logs.</li>
-<li style="text-align: justify;">Collaborated with cross-functional teams to gather requirements and developed Azure Logic App alerts and dashboards to facilitate timely issue detection, simplify debugging, and track code performance, thereby enhancing overall system maintainability.</li>
+  <li style="text-align: justify;">Implemented a scalable Bronze Table framework and redesigned the transformation logic to read from bronze tables, improving transformation efficiency by 60%. This solution enabled reliable reprocessing in case of data inconsistencies or logic issues, served as a source of truth.</li>
+  <li style="text-align: justify;">Redesigned the strategy for building the Applicant Review feature, enabling seamless integration of candidate data from ATS platforms. This enhancement allowed recruiters to manage workflows from a unified platform, simplifying and streamlining the hiring process.</li>
+  <li style="text-align: justify;">Improved system reliability by reducing redundant service bus requests and achieving a 90% drop in throttling, while revamping telemetry logging with standardized conventions and telemetry initializers, cutting debugging time by 50% and eliminating redundant log costs.</li>
+  <li style="text-align: justify;">Designed and implemented an algorithm to detect, process, and preserve sequence of DeadLetterQueue (DLQ) messages using C# and Azure SDK, achieving a 95% reduction in manual efforts and significant time savings.</li>
+  <li style="text-align: justify;">Built CI/CD pipelines leveraging Python, DevOps, shell scripting, and GitHub SDK to streamline build and deployment workflows, uploading only modified modules and reducing deployment times by 80%. Also built Azure Logic App alert dashboards and an automated CleanUp Service to remove unused resources tied to inactive customers — improving issue detection and cutting infrastructure costs.</li>
 </ul>
     
 <h3><img
@@ -108,8 +110,7 @@ based on factors like location, weight, and packaging to facilitate improved dec
 <h4>&#x1F5D3; May 2022 – Aug 2022</h4>
 
 <ul>
-  <li style="text-align: justify;">Led the execution of SeekOut's Website security clearance feature data pipeline, refreshing the security-clearance-tag map with 1.5 years' worth of 
-data from around 6 million job listings. </li>
+  <li style="text-align: justify;">Executed a large-scale data pipeline powering SeekOut's security clearance feature, refreshing the tag map with 6M+ job listings spanning 1.5 years, ensuring accurate and up-to-date clearance classifications for customers.</li>
   <li style="text-align: justify;">Implemented a project in C# and .NET framework to validate security clearance input and output file schemas at each stage of the data pipeline, 
 reporting users on missing keys and invalid data fields.</li>
   <li style="text-align: justify;">Contributed to Confluence by documenting the current infrastructure of the data pipeline and schema validation code, while also reviewing the 
@@ -211,10 +212,10 @@ ensure a consistently high-quality database. </li>
 <p align="center">&#128507;Redmond, Washington</p>
 <div align="center">
   <p>You can reach me via email at
-<br><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="20" height="20" alt="gmail logo"  /> <a href="mailto:tyagivaibhav0808@gmail.com" class="email-link">tyagivaibhav0808@gmail.com</a> <br>or connect with me on <br><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20" height="20" alt="linkedin logo"  /><a href="https://www.linkedin.com/in/iamvaibhavtyagi" class="linkedin-link" target="_blank"> LinkedIn</a>.</p>
+<br><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="20" height="20" alt="gmail logo"  /> <a href="mailto:vaibhavtyagi0808@gmail.com" class="email-link">vaibhavtyagi0808@gmail.com</a> <br>or connect with me on <br><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20" height="20" alt="linkedin logo"  /><a href="https://www.linkedin.com/in/iamvaibhavtyagi" class="linkedin-link" target="_blank"> LinkedIn</a>.</p>
 </div>
 
-<h5 align="center">&#x2705; Last updated Jan 2025</h5>
+<h5 align="center">&#x2705; Last updated Apr 2026</h5>
 <!-- <div style="text-align: center;">
   <a href="#section1">
   <button style="background-color: Yellow; color: black;">&#x2B06; Back to top</button>
